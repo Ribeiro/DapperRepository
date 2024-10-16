@@ -1,0 +1,66 @@
+# Build Folders
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Uu]serSecrets/
+*.db
+
+# Visual Studio
+.vscode/
+*.suo
+*.user
+*.userprefs
+*.sln.docstates
+*.sln.ide
+
+# Rider
+.idea/
+*.sln.iml
+
+# Visual Studio Code
+.vscode/
+.settings/
+
+# JetBrains Rider
+.idea/
+
+# dotnet tools
+*.dotnet-tools.json
+
+# Visual Studio temporary files
+*.sln.cache
+*.sln.ide
+*.sln.docstates
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# NuGet Packages
+*.nupkg
+**/packages/*
+**/bin/*
+**/obj/*
+
+# Local History for JetBrains Rider
+.localhistory/
+
+# Database files
+*.mdf
+*.ldf
+
+# Coverage
+coverage/
+
+# User-specific files
+*.vs/
+*.vscode/
+
+# Resharper
+*.DotSettings.user
